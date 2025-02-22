@@ -1,0 +1,26 @@
+{
+	"name": "insta-scoop",
+	"version": "1.1.0",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"keywords": [
+		"instagram",
+		"reels",
+		"posts",
+		"fetch",
+		"api",
+		"graph-api",
+		"media",
+		"instagram-api"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Eren Aygün",
+	"license": "MIT",
+	"description": "Fetch Instagram media (posts, reels, stories) easily with Graph API.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/erenaygunn/insta-scoop.git"
+	}
+}
